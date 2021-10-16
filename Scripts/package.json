@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethers": "^5.4.6",
+    "prompt-sync": "^4.2.0"
+  }
+}
